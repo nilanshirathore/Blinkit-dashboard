@@ -21,3 +21,4 @@ Developed an interactive Power BI dashboard to analyze Blinkit's sales, outlet p
 3. Number of Items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold.
 
+DASHBOARD PREVIEW:https://github.com/nilanshirathore/Blinkit-dashboard/blob/main/Dashboard%20look.png
